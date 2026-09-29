@@ -4,9 +4,6 @@
 
 I build practical software systems at the intersection of **web development, networking, and IoT**. Currently deep in Python, exploring Go, Linux, and distributed systems.
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true)
-
 ---
 
 ##  Featured Project — Smart Anti-Theft Item Tracker
