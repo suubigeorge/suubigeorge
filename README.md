@@ -10,8 +10,8 @@ I enjoy working on projects that combine **software development, web technologie
 
 ##  About Me
 
-- 🎓 Computer Science student
-- 💻 Interested in software development and systems programming
+-  Computer Science student
+-  Interested in software development and systems programming
 -  Interested in computer networks, HTTP, APIs, and distributed systems
 -  Currently working extensively with Python
 -  Exploring Linux, Bash/Shell, Docker, and Go
@@ -207,7 +207,7 @@ I am particularly interested in the intersection of:
 ##  Connect With Me
 
  <!-- - 💻 GitHub: [Your GitHub Profile](https://github.com/)-->
-- 📧 Email: [georgesuubi98@gmail.com]
+- 📧 Email: georgesuubi98@gmail.com
  <!-- - 💼 LinkedIn: [Your LinkedIn Profile]     -->
 
 ---
